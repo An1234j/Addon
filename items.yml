@@ -1,0 +1,45 @@
+BAT:
+  category: MEOWSMP
+  item-type: CUSTOM
+  item-name: "&e TRỨNG DƠI"
+  item-id: BAT_SPAWN_EGG
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    5:
+      type: SAVEDITEM
+      id: 1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1

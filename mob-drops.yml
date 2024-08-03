@@ -1,0 +1,72 @@
+BATD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eBAT DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ dơi"
+  - "&cDùng để chế tạo trứng dơi"
+  item-id: paper
+  item-amount: 1
+  mob: BAT
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+ELDERD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eELDER GURDIAN DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ Elder Gurdian"
+  - "&cDùng để chế tạo trứng Elder Gurdian"
+  item-id: paper
+  item-amount: 1
+  mob: ELDER_GURDIAN
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+DADEN:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eWITHER SKELETON DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ anh da đen"
+  - "&cDùng để chế tạo trứng nô lệ"
+  item-id: paper
+  item-amount: 1
+  mob: WITHER_SKELETON
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+STRAYD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSTRAY DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ Stray"
+  - "&cDùng để chế tạo trứng Stray"
+  item-id: paper
+  item-amount: 1
+  mob: STRAY
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+HUSKD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eHUSK DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ Husk"
+  - "&cDùng để chế tạo trứng Husk"
+  item-id: paper
+  item-amount: 1
+  mob: HUSK
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+BATD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eBAT DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ dơi"
+  - "&cDùng để chế tạo trứng dơi"
+  item-id: paper
+  item-amount: 1
+  mob: GHAST
+  chance: 50
+  recipe-display-item: DIAMOND_SWORD
