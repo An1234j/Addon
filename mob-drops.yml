@@ -58,6 +58,498 @@ HUSKD:
   mob: HUSK
   chance: 100
   recipe-display-item: DIAMOND_SWORD
+ZOMVILAGGER:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eZOMBIE VILLAGER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ dân làng thây ma"
+  - "&cDùng để chế tạo trứng dân làng thây ma"
+  item-id: paper
+  item-amount: 1
+  mob: ZOMBIE_VILLAGER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+DONKEYD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eDONKEY DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ con lừa"
+  - "&cDùng để chế tạo trứng lừa"
+  item-id: paper
+  item-amount: 1
+  mob: DONKEY
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+CREEPER:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eCREEPER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ creeper"
+  - "&cDùng để chế tạo trứng creeper"
+  item-id: paper
+  item-amount: 1
+  mob: CREEPER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SKED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSKELETON DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ skeleton"
+  - "&cDùng để chế tạo trứng skeleton"
+  item-id: paper
+  item-amount: 1
+  mob: SKELETON
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SPIDERD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSPIDER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ nhện"
+  - "&cDùng để chế tạo trứng nhện"
+  item-id: paper
+  item-amount: 1
+  mob: SPIDER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+ZOMBIED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eZOMBIE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ thây ma"
+  - "&cDùng để chế tạo trứng thây ma"
+  item-id: paper
+  item-amount: 1
+  mob: ZOMBIE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SLIMED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSLIME DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ slime"
+  - "&cDùng để chế tạo trứng slime"
+  item-id: paper
+  item-amount: 1
+  mob: SLIME
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+GHASTD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eGHAST DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ ghast"
+  - "&cDùng để chế tạo trứng ghast"
+  item-id: paper
+  item-amount: 1
+  mob: GHAST
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+ZOMPIGD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eZOMBIE PIGMAN DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ zombie pigman"
+  - "&cDùng để chế tạo trứng zombie bigman"
+  item-id: paper
+  item-amount: 1
+  mob: ZOMBIE_PIGMAN
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+ENDERD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eENDERMAN DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ enderman"
+  - "&cDùng để chế tạo trứng enderman"
+  item-id: paper
+  item-amount: 1
+  mob: ENDERMAN
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+CAVESPIDERD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eCAVE SPIDER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ nhện hang"
+  - "&cDùng để chế tạo trứng nhện hang"
+  item-id: paper
+  item-amount: 1
+  mob: CAVE_SPIDER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SLIVERFISHD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSLIVERFISH DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ cá bạc"
+  - "&cDùng để chế tạo trứng cá bạc"
+  item-id: paper
+  item-amount: 1
+  mob: SLIVER_FISH
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+BLAZED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eBLAZE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ blaze"
+  - "&cDùng để chế tạo trứng blaze"
+  item-id: paper
+  item-amount: 1
+  mob: BLAZE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+CUBED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eMAGMA CUBE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ magma cube"
+  - "&cDùng để chế tạo trứng magma cube"
+  item-id: paper
+  item-amount: 1
+  mob: MAGMA_CUBE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+WITCHD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eWITCH DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ phù thủy"
+  - "&cDùng để chế tạo trứng phù thủy"
+  item-id: paper
+  item-amount: 1
+  mob: WITCH
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+ENDERMINED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eENDERMINE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ rận"
+  - "&cDùng để chế tạo trứng rận"
+  item-id: paper
+  item-amount: 1
+  mob: ENDERMINE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+GUARDIAN:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eGUARDIAN DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ giám hộ"
+  - "&cDùng để chế tạo trứng giám hộ"
+  item-id: paper
+  item-amount: 1
+  mob: BAT
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SHULKER:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSHULKER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ shulker"
+  - "&cDùng để chế tạo trứng shulker"
+  item-id: paper
+  item-amount: 1
+  mob: SHULKER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+PIGD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&ePIG DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ heo"
+  - "&cDùng để chế tạo trứng heo"
+  item-id: paper
+  item-amount: 1
+  mob: PIG
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SHEEPD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSHEEP DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ cừu"
+  - "&cDùng để chế tạo trứng cừu"
+  item-id: paper
+  item-amount: 1
+  mob: SHEEP
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+CHICKEND:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eCHICKEN DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ gà"
+  - "&cDùng để chế tạo trứng gà"
+  item-id: paper
+  item-amount: 1
+  mob: CHICKEN
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SQUID:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSQUID DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ mực"
+  - "&cDùng để chế tạo trứng mực"
+  item-id: paper
+  item-amount: 1
+  mob: SQUID
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+WOLFD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eWOLF DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ chó sói"
+  - "&cDùng để chế tạo trứng chó sói"
+  item-id: paper
+  item-amount: 1
+  mob: WOLF
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+MOOSHROOM:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eMOOSHROOM DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ bò nấm"
+  - "&cDùng để chế tạo trứng bò nấm"
+  item-id: paper
+  item-amount: 1
+  mob: MOOSHROOM
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+OCELOTD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eOCELOT DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ mèo rừng"
+  - "&cDùng để chế tạo trứng mèo rừng"
+  item-id: paper
+  item-amount: 1
+  mob: OCELOT
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+HORSED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eHORSE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ ngựa"
+  - "&cDùng để chế tạo trứng ngựa"
+  item-id: paper
+  item-amount: 1
+  mob: HORSE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+RABBIT:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eRABBIT DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ thỏ"
+  - "&cDùng để chế tạo trứng thỏ"
+  item-id: paper
+  item-amount: 1
+  mob: RABBIT
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+BEARD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&ePOLAR BEAR DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ polar bear"
+  - "&cDùng để chế tạo trứng polar bear"
+  item-id: paper
+  item-amount: 1
+  mob: POLAR_BEAR
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+LLAMAD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eLLAMA DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ lạc đà"
+  - "&cDùng để chế tạo trứng lạc đà"
+  item-id: paper
+  item-amount: 1
+  mob: LLAMA
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+PARROT:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&ePARROT DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ vẹt"
+  - "&cDùng để chế tạo trứng vẹt"
+  item-id: paper
+  item-amount: 1
+  mob: PARROT
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+VILLAGER:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eVILLAGER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ dân làng"
+  - "&cDùng để chế tạo trứng dân làng"
+  item-id: paper
+  item-amount: 1
+  mob: VILLAGER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+COWD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eCOW DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ bò"
+  - "&cDùng để chế tạo trứng bò"
+  item-id: paper
+  item-amount: 1
+  mob: COW
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+DOLPHIND:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eDOLPHIN DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ cá heo"
+  - "&cDùng để chế tạo trứng cá heo"
+  item-id: paper
+  item-amount: 1
+  mob: DOLPHIN
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+DROWNED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eDROWNED DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ drowned"
+  - "&cDùng để chế tạo trứng drowned"
+  item-id: paper
+  item-amount: 1
+  mob: DROWNED
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+  MULED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eMULE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ mule"
+  - "&cDùng để chế tạo trứng mule"
+  item-id: paper
+  item-amount: 1
+  mob: MULE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+EVOKER:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eEVOKER DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ evoker"
+  - "&cDùng để chế tạo trứng evoker"
+  item-id: paper
+  item-amount: 1
+  mob: EVOKER
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+PHANTOMD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&ePHANTOM DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ phantom"
+  - "&cDùng để chế tạo trứng phantom"
+  item-id: paper
+  item-amount: 1
+  mob: PHANTOM
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+PUFFERFISHD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&ePUFFERFISH DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ cá nóc"
+  - "&cDùng để chế tạo trứng cá nóc"
+  item-id: paper
+  item-amount: 1
+  mob: PUFFERFISH
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+SALMOND:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eSALMON DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ cá hồi"
+  - "&cDùng để chế tạo trứng cá hồi"
+  item-id: paper
+  item-amount: 1
+  mob: SALMON
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+TROPICALD:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eTROPICAL FISH DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ tropical fish"
+  - "&cDùng để chế tạo trứng tropical fish"
+  item-id: paper
+  item-amount: 1
+  mob: TROPICAL_FISH
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
+TURTLED:
+  category: DROP
+  item-type: CUSTOM
+  item-name: "&eTURTLE DROP"
+  item-lore:
+  - "&7Vật phẩm rơi từ rùa"
+  - "&cDùng để chế tạo trứng rùa"
+  item-id: paper
+  item-amount: 1
+  mob: TURTLE
+  chance: 100
+  recipe-display-item: DIAMOND_SWORD
 BATD:
   category: DROP
   item-type: CUSTOM
@@ -67,6 +559,6 @@ BATD:
   - "&cDùng để chế tạo trứng dơi"
   item-id: paper
   item-amount: 1
-  mob: GHAST
-  chance: 50
+  mob: BAT
+  chance: 100
   recipe-display-item: DIAMOND_SWORD
